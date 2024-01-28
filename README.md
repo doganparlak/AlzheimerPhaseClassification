@@ -9,3 +9,5 @@ Link to dataset: https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-
 - **AlzheimerPhaseClassification.ipynb**: This Jupyter Notebook contains the source code of the project, including data preprocessing, model implementation using Convolutional Neural Networks (CNNs), training, and evaluation.
 
 - **AlzheimerPhaseClassification.pdf**: The project report is available in this PDF file. It includes detailed information about the project's objectives, methodology, results, and conclusions.
+
+- **Data Folder**: Train and Test data used in the project.
